@@ -1,3 +1,6 @@
+## Note: This repo has been archieved and moved to this [repo](https://github.com/SERVIR/servir-aces).
+
+
 # ACES (Agricultural Classification and Estimation Service)
 
 ACES (Agricultural Classification and Estimation Service) is a Python module for generating training data and training machine learning models for remote sensing applications. It provides functionalities for data processing, data loading from Earth Engine, feature extraction, and model training.
